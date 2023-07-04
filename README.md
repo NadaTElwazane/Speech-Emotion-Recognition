@@ -83,8 +83,8 @@ We used SAVEE dataset to be able to compare our results to the paper's. We used 
 
 ## Notebooks
 - [1D CNN](./SER_assignment3.ipynb)
-- [2D CNN](./SER_assignment3_2D.ipynb)
-- [Paper Implementation](./SER_assignment3_paper.ipynb)
+- [2D CNN](./SER_2D_assignment3.ipynb)
+- [Paper Implementation](./Paper_Implementation.ipynb)
 
 ## Collaborators
 - [Manar Amgad](https://github.com/manaramgadd)
